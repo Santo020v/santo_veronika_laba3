@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace laba3._1
 {
-    //Дано список List <T> з об'єктами одного типу Obj, у якого в свою чергу є властивість Id. Організувати пошук для знаходження елемента колекції по його властивості
     class Program
     {
         static void Main(string[] args)
